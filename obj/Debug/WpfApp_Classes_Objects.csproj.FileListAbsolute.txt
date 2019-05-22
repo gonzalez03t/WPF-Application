@@ -1,0 +1,15 @@
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\bin\Debug\WpfApp_Classes_Objects.exe.config
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\bin\Debug\WpfApp_Classes_Objects.exe
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\bin\Debug\WpfApp_Classes_Objects.pdb
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.csprojAssemblyReference.cache
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\MainWindow.g.cs
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\App.g.cs
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects_MarkupCompile.cache
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects_MarkupCompile.lref
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\MainWindow.baml
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.g.resources
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.Properties.Resources.resources
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.exe
+C:\Users\Jesus\source\repos\C#_Projects\WpfApp_Classes_Objects\WpfApp_Classes_Objects\obj\Debug\WpfApp_Classes_Objects.pdb
