@@ -25,13 +25,16 @@ namespace WpfApp_Classes_Objects
             InitializeComponent();
             Title = "Demo App";
 
-            Squares s1 = new Squares(DrawingCanvas);
-
-            s1.Draw();
-
-
+            for (int i = 0; i < 200; i++)
+            {
+                DrawShape(new Squares(DrawingCanvas));
+                DrawShape(new Circle(DrawingCanvas));
+            }
         }
 
-
+        private void DrawShape(Shape shape)
+        {
+            shape.Draw();
+        }
     }
 }

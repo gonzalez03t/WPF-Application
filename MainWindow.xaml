@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
 	<Grid>
-		<Canvas x:Name="DrawingCanvas" HorizontalAlignment="Left" Height="358" Margin="34,29,0,0" VerticalAlignment="Top" Width="727"/>
+		<Canvas x:Name="DrawingCanvas" HorizontalAlignment="Left" Height="347" Margin="34,40,0,0" VerticalAlignment="Top" Width="727"/>
 	</Grid>
 </Window>
