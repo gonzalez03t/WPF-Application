@@ -10,14 +10,14 @@ using System.Windows;
 
 namespace WpfApp_Classes_Objects
 {
-    class Shape
+    abstract class Shape //Abstract classes can not be instantiated
     {
         public Shape(Canvas canvas) //Constructor
         {
             _canvas = canvas;
         }
 
-        public void Draw()
+        public virtual void Draw()
         {
             //NextDouble function returns a number between 0 and 1. 
             double left = 727 * _rand.NextDouble(); //Use rand num as percentage to determine rand position for left
@@ -43,6 +43,17 @@ namespace WpfApp_Classes_Objects
             ellipse.Fill = new SolidColorBrush(Colors.Orange);
             ellipse.Stroke = new SolidColorBrush(Colors.Black);
             _element = ellipse;
+        }
+
+        public override void Draw() //Is possible to override a virtual method. This is true polymorphism
+        {
+            Ellipse smallEllipse = new Ellipse();
+            smallEllipse.Width = 5;
+            smallEllipse.Height = 5;
+            smallEllipse.Fill = new SolidColorBrush(Colors.Orange);
+            smallEllipse.Stroke = new SolidColorBrush(Colors.Black);
+            _element = smallEllipse;
+            base.Draw();
         }
     }
 
